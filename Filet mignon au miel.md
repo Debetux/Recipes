@@ -1,10 +1,10 @@
-﻿— Filet mignon
-— 3 cuillères à soupe de miel
-— 2 cuillères à soupe de tamari
-— 3 cuillères à soupe d'huile d'olive
-— 1 à 2 cuillère à café de mélange d'épices tandori
-— 1 cuillère à soupe de poudre d'amande
-— 1 cuillère à soupe de sucre
+﻿- Filet mignon
+- 3 cuillères à soupe de miel
+- 2 cuillères à soupe de tamari
+- 3 cuillères à soupe d'huile d'olive
+- 1 à 2 cuillère à café de mélange d'épices tandori
+- 1 cuillère à soupe de poudre d'amande
+- 1 cuillère à soupe de sucre
 
 1. Couper le filet mignon en petits morceaux.
 2. Dans un saladier, mélanger le miel, le tamari, l'huile d'olive et les épices.

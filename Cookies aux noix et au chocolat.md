@@ -1,8 +1,8 @@
-﻿— 125 g de noix
-— 150 g de sucre glace
-— 35 g de cacao amer
-— 2 blancs d'œuf
-— 1 pincée de sel
+﻿- 125 g de noix
+- 150 g de sucre glace
+- 35 g de cacao amer
+- 2 blancs d'œuf
+- 1 pincée de sel
 
 
 1. Torréfier les noix 15 minutes au four à 150°C (th5). Le début de la torréfaction se fera à four froid.

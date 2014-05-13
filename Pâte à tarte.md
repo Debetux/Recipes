@@ -1,13 +1,13 @@
 ﻿## Pâte à tarte
 
-— 150 g farine de riz
-— 150 g de fécule de pomme de terre
-— 1 cuil. à soupe de téguments de psyllium ou graines de lin broyées ou 1 cuil. à café de gomme guar
-— 1 cuil. à café de sel
-— 1 cuil. à café de poudre à lever
-— 1 œuf
-— 100 g + 60 g d'eau
-— 50 g d'huile de pépin de raisin ou une autre huile neutre en goût
+- 150 g farine de riz
+- 150 g de fécule de pomme de terre
+- 1 cuil. à soupe de téguments de psyllium ou graines de lin broyées ou 1 cuil. à café de gomme guar
+- 1 cuil. à café de sel
+- 1 cuil. à café de poudre à lever
+- 1 œuf
+- 100 g + 60 g d'eau
+- 50 g d'huile de pépin de raisin ou une autre huile neutre en goût
 
 
 1. Mélanger les téguments de psyllium avec 100 g d'eau tiède. Laisser reposer pendant 10 minutes.
